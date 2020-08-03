@@ -13,9 +13,10 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 
+## &#x1f4c8; GitHub Stats
+
 [![My github stats](https://github-readme-stats.vercel.app/api?username=chiefsan&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## &#x1f4c8; GitHub Stats
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alan-turing-institute&repo=AIrsenal&show_owner=true)](https://github.com/chiefsan/AIrsenal)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chiefsan&repo=2PacMan)](https://github.com/chiefsan/2PacMan)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chiefsan&repo=GraphMST)](https://github.com/chiefsan/GraphMST)
